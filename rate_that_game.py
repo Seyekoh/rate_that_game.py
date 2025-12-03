@@ -16,7 +16,7 @@ Usage:
 Requirements:
 - pandas
 
-Author: Seyekoh
+Author: James Bridges
 Date: 27-March-2025
 """
 import sys
